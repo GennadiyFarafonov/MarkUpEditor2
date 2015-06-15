@@ -1,0 +1,23 @@
+[
+  {
+    "uid": 1,
+    "text" : "12:00 - 12:30",
+    "username" : "Позвонить начальнику",
+    "avatar" : "../images/phone-icon.png",
+    "favorite": false
+  },
+  {
+    "uid": 2,
+    "text" : "23:50 - 00:50 via vk/chrology",
+    "username" : "написать @olyaoleum",
+    "avatar" : "../images/vkontakte-icon.png",
+    "favorite": false
+  },
+    {
+    "uid": 3,
+    "text" : "Автоплатеж через 00:19:34",
+    "username" : "Заплатить за парковку",
+    "avatar" : "../images/card-icon.png",
+    "favorite": false
+  }
+]
